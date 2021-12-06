@@ -1,0 +1,16 @@
+body{
+   height: 95vh;
+   width: 95;
+   display: flex;
+   justify-content: center;
+   align-items: center; 
+   flex-direction: column;
+   color: black;
+   background-color: grey;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 25px;
+}
+footer{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
